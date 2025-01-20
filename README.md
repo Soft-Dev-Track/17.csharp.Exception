@@ -140,3 +140,7 @@ public class UserNotFoundException : Exception
 ```
 
 **Usage**: This custom exception, `UserNotFoundException`, can be used to signal specific errors related to user retrieval operations. It includes several constructors that mirror those of the base `Exception` class, allowing you to pass messages or other exceptions along with the custom exception.
+
+---
+
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5wMWU2eGI0YjI4N2I1Ymp1YzJnczI5NmhsdTNycHBoaWxtNnN4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MeAjdMQIqQ2iX1RDt9/giphy.gif)
